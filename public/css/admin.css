@@ -1,0 +1,54 @@
+#panel_pro{
+	background-color: #ecf0f1; color:#267AB7;
+}
+
+.navbar{
+	margin-bottom: 0;
+	background: #b3ccff;
+}
+.admin{
+	color: #fff;
+}
+#name_admin{
+	color: #fff;
+}
+#name_admin:hover{
+	color: #fff;
+	background-color: #676767;
+}
+#name_admin>li>a:hover{
+	text-decoration: none;
+    background-color: #676767;
+    color: #676767;
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+	color: #676767;
+	background-color: #676767;
+    border-color: #fff;
+}
+
+.panel-body{
+	font-size: 13px;
+}
+.status1{
+	color:#d35400;
+}
+.status2{
+	color:#003CFF;
+}
+
+.chonsanpham{
+	margin-top: 7px;
+}
+#side-menu{
+	background-color: #b3ccff;
+}
+#side-menu::hover{
+	background-color: #b3ccff;
+}
+.menu{
+	color: #fff;
+}
+.menu:hover{
+	color: #444;
+}

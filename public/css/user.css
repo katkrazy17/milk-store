@@ -1,0 +1,77 @@
+/*logo*/
+.hotline p{
+	font-size: 15px; margin-top: 50px;font-family: Helvetica, cursive, Tahoma, sans-serif;color:#666666c7;
+}
+
+/*menu*/
+
+.tr_giohang{
+	font-size: 14px
+}
+#giohang{
+	right:0; left: auto; min-width: 400px;
+}
+#dangnhap{
+	min-width: 160px;
+}
+.dropdown-item p{
+	color: #000000;padding: 10px 0px 1px 22px
+}
+
+#modal_dangnhap{
+	width: 28%;height: 100px;
+}
+#modal_footer_dn{
+	margin-left:12px
+}
+.dangky{
+	color: #FF0000;
+}
+
+.img_activer{
+	width:100%;
+}
+.img_slide{
+	width: 100%;
+}
+/*cart*/
+
+#soluong{
+	padding-left: 30px;
+}
+.qty{
+	width:30px; font-weight:bold; font-size:15px; color:blue;
+}
+.delete{
+	padding:5px; padding-left: 17px; font-size:18px; color:red;
+}
+.tongtien{
+	color:red;
+}
+
+/*mobile_detail*/
+.img_detail{
+	height: 245px;
+}
+#chitietanh{
+	width: 90%;height: 85%;margin-left: 25px
+}
+.panel-info{
+	margin: 0;
+}
+.btnthemct{
+	font-size: 20px;
+}
+.navbar-default{
+	background-color: #31708f;
+  	border-color: #31708f;
+  	color: #fff;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+    background-color: #31708f;
+}
+
+/*footer*/
+#footer_st{
+	margin-top: 15px;
+}
